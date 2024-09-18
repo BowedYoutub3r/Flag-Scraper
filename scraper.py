@@ -3,7 +3,7 @@ import os
 import json
 
 # Load the country codes from the JSON file
-with open('', 'r') as f:
+with open('countrycodes.json', 'r') as f:
     country_data = json.load(f)
 
 # Create a folder to store downloaded images
