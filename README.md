@@ -5,7 +5,7 @@ installs images from flagsapi.com and then converts them to Country codes
 Built using python for simplicity.
 requires "requests" in order to work.
 #
-## Instructions 
+## HOW TO 
 
 First run
 
