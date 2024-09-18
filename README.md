@@ -3,8 +3,10 @@ installs images from flagsapi.com and then converts them to Country codes
 
 #
 Built using python for simplicity.
+
 requires "requests" in order to work.
 #
+**Disclaimer: This has been developed for educational purposes only. Any action you take using this script is strictly at your own risk. I will not be liable for any losses or damages you face using this script.**
 ## HOW TO 
 
 First run
